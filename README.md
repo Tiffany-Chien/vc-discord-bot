@@ -4,4 +4,6 @@ This is discord bot is for my Twitch Community. I am still developing and discov
 
 ## APIs:
 
-!ping: show latency
+!ping: show latency and the message ping
+
+!say: repeat what you said
